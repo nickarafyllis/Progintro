@@ -1,5 +1,5 @@
 # Progintro
-Progintro Proposed(and tested) C++ solutions to the series of programming problems requested for the lesson "Computer Programming" which is taught in the 1st semester of the school of Electrical and Computer Engineering(ECE) of National Technological University of Athens(NTUA).
+Progintro Proposed(and tested) C++ solutions to the series of programming problems requested for the lesson "Computer Programming" which is taught in the 1st semester of the school of Electrical and Computer Engineering(ECE) of National Technical University of Athens(NTUA).
 
 Μικρά disclaimer:
 Οι λύσεις δεν είναι από μόνο ένα άτομο, οπότε θα δείτε διαφορές στη "λογική" του κώδικα κάθε άσκησης.
